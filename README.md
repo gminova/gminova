@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Gigi Minova (she/her). 🌱 
 I am a full-stack Software engineer based in Japan. I mostly work on the front-end and currently work for a health tech startup in a small but growing team.
-My work is fully remote first and mostly asynchronous. Almost all communication is done online via chat, email and video.
+My work is fully remote and mostly asynchronous. Almost all communication is done online via chat, email and video.
 I like both agile and kanban styles of work and can quickly adapt to a different working environment.
 
 My hobbies are music, meditation, painting and travelling. I do enjoy cooking and gardening ocassionally.
