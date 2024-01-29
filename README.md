@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Gergana Minova (she/her). 🌱 
-I am a full-time full-stack Software engineer based in Japan. I am a full-stack developer using TypeScript, React and other JavaScript libraries.
+I am a full-stack Software engineer based in Japan. At work I use TypeScript, React, Serverless and other JavaScript libraries.
 My work is fully remote and mostly asynchronous. All work communication is done online via chat, email and video.
 I like both agile and kanban styles of work and can quickly adapt to a different working environment and pace depending on business demand.
 
