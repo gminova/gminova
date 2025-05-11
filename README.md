@@ -1,6 +1,5 @@
 # Hi there 👋 I'm Gergana Minova (she/her). 🌱 
-I am a full-stack Software engineer based in Japan. At work I use TypeScript, React, Serverless and other JavaScript libraries. I also have some experience with Python and FastAPI 
-
+I am a full-stack Software engineer based in Japan. At work I use TypeScript, React, Serverless and other JavaScript libraries. I also have some experience with Python and FastAPI  for serving AI models.
 I speak fluent English, native Bulgarian and intermediate Japanese.
 
 I like networking and meeting new people, going out and learning new things.
